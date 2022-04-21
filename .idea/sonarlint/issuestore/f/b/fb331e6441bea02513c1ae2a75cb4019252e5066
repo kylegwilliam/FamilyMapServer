@@ -1,0 +1,23 @@
+
+@
+java:S1481x"*Remove this unused "count" local variable.(æÕ¿¼
+B
+java:S1168™"+Return an empty collection instead of null.(¥¹ï
+G
+java:S1172¤"0Remove this unused method parameter "authToken".(ìÂ€Ò
+=
+java:S1168¥"&Return an empty array instead of null.(¥¹ï
+F
+java:S1172°"/Remove this unused method parameter "username".(Ÿ¦Ü†
+W	java:S125¾"<This block of commented-out lines of code should be removed.(ÿŠíºúÿÿÿÿ
+o
+java:S2293v"YReplace the type specification in this constructor call with the diamond operator ("<>").(œáç“
+|
+java:S1192Q"fDefine a constant instead of duplicating this literal "Error encountered while finding event" 3 times.(•‚’“
+f	java:S117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ôÚñ
+g	java:S117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚·ØÁ
+U
+java:S1155•">Use isEmpty() to check whether the collection is empty or not.(¢áÆ–
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³¥ÁÏ
+`
+java:S2583É"DChange this condition so that it does not always evaluate to "false"(Ñ¿È©ûÿÿÿÿ

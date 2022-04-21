@@ -1,0 +1,17 @@
+
+i
+java:S1450"SRemove the "file" field and declare it as a local variable in the relevant methods.(ïÛú
+G
+java:S1481",Remove this unused "success" local variable.(Ğ¾Šıÿÿÿÿ
+~
+java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Óº£‰ıÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(¼Ë×Ãıÿÿÿÿ
+C	java:S1089")Either remove or fill this block of code.(šƒÍØşÿÿÿÿ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(Øœ·
+P
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+k	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Ğ³ùÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(°Ñâõ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ô‡Îşÿÿÿÿ

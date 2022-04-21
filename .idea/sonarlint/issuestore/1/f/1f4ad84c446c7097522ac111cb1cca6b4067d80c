@@ -1,0 +1,17 @@
+
+g	java:S116"RRename this field "Request" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø ª¢
+~
+java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Ûî€åüÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(‚ˆ„ùÿÿÿÿ
+V	java:S125("<This block of commented-out lines of code should be removed.(›¬™øÿÿÿÿ
+M
+java:S1905+"2Remove this unnecessary cast to "RegisterRequest".(¾Úáúÿÿÿÿ
+V	java:S125?"<This block of commented-out lines of code should be removed.(¿ˆ…“øÿÿÿÿ
+V	java:S125D"<This block of commented-out lines of code should be removed.(õŞüËûÿÿÿÿ
+T
+java:S1874W"9Remove this use of "HTTP_SERVER_ERROR"; it is deprecated.(ô®ß“ıÿÿÿÿ
+i
+java:S1104"SMake Request a static final constant or non-public and provide accessors if needed.(Ø ª¢
+K
+java:S1191	"5Use classes from the Java API instead of Sun classes.(°Ñâõ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ô‡Îşÿÿÿÿ

@@ -1,0 +1,12 @@
+
+~
+java:S1157$"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Ûî€åüÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(‚ˆ„ùÿÿÿÿ
+J
+java:S19051"/Remove this unnecessary cast to "LoginRequest".(¯šé…úÿÿÿÿ
+V	java:S125K"<This block of commented-out lines of code should be removed.(õŞüËûÿÿÿÿ
+T
+java:S1874]"9Remove this use of "HTTP_SERVER_ERROR"; it is deprecated.(ô®ß“ıÿÿÿÿ
+K
+java:S1191	"5Use classes from the Java API instead of Sun classes.(°Ñâõ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ô‡Îşÿÿÿÿ
